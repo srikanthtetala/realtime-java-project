@@ -1,0 +1,5 @@
+name: "Run Java Tests"
+description: "Runs unit tests for a Java project using Maven"
+runs:
+  using: "docker"
+  image: "Dockerfile"
